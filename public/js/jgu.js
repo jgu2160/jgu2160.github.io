@@ -70,8 +70,8 @@ data = [
   {"lang": "Ruby", "score": 5},
   {"lang": "Python", "score": 3},
   {"lang": "Javascript", "score": 5},
-  {"lang": "d3", "score": 2},
-  {"lang": "Go", "score": 3},
+  {"lang": "d3", "score": 3},
+  {"lang": "Go", "score": 2},
   {"lang": "MATLAB", "score": 3},
 ];
 
