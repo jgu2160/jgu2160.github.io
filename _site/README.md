@@ -1,1 +1,0 @@
-JGu's blog, bloGu
