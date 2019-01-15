@@ -68,11 +68,9 @@ var svg = d3.select("#donut").append("svg")
 
 data = [
   {"lang": "Ruby", "score": 5},
-  {"lang": "Python", "score": 3},
-  {"lang": "Javascript", "score": 5},
-  {"lang": "d3", "score": 3},
-  {"lang": "Go", "score": 2},
-  {"lang": "MATLAB", "score": 3},
+  {"lang": "Python", "score": 5},
+  {"lang": "Javascript", "score": 3},
+  {"lang": "d3", "score": 3}
 ];
 
 var g = svg.selectAll(".arc")
