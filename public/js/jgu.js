@@ -69,7 +69,8 @@ var svg = d3.select("#donut").append("svg")
 data = [
   {"lang": "Ruby", "score": 5},
   {"lang": "Python", "score": 5},
-  {"lang": "Javascript", "score": 3},
+  {"lang": "JS", "score": 3},
+  {"lang": "Scala", "score": 1},
   {"lang": "d3", "score": 3}
 ];
 
